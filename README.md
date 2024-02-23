@@ -1,5 +1,5 @@
 # Sobre Mim
-🎓 Meu próximo objetivo é iniciar a graduação de TI ano que vem.
+🎓 Iniciei a graduação de Análise e Desenvolvimento de Sistemas este ano.
 
 📚 Estou lendo atualmente "S. Bagui, R. Earp - Database Design Using Entity-Relationship Diagrams (2023)".
 ## Linguagens / Ferramentas / Tecnologias
